@@ -1,0 +1,26 @@
+{
+  "estrategia": "O conselho recomenda comecar com R$20/dia no Meta Ads em estrutura CBO (Campaign Budget Optimization) com 3 conjuntos frios: interesse em tecnologia, lookalike de visitantes do site e segmentacao por cargo (ex: analista, dev, estagiario). O criativo e a alavanca principal: testar 3 a 5 versoes de video curto (15-30s) com gancho forte nos primeiros 3 segundos. A oferta de entrada deve ser um material gratuito de alto valor (ex: guia, aula gratuita, teste de aptidao) para gerar lead qualificado. A partir dos leads, nutrir com e-mail sequencial e retargeting para conversao no produto principal. O aprendizado da maquina exige pelo menos 50 conversoes por semana por conjunto para sair da fase de aprendizado.",
+  "publicoAlvo": "Brasil, idade 22-45, interessados em: Tecnologia da Informacao, Desenvolvimento de Software, Carreira em Tecnologia, Certificacoes Profissionais, Cursos Online, Ensino a Distancia, LinkedIn. Segmentar tambem por cargos: Analista de Sistemas, Desenvolvedor, Product Manager, Coordenador de TI, Profissionais de RH que buscam capacitacao de equipes. Excluir publico que ja converteu.",
+  "verbaDiariaBRL": 20,
+  "angulos": [
+    {
+      "titulo": "Sua carreira tech comeca aqui",
+      "mensagem": "Descubra se voce esta realmente apto para o mercado de TI. Faca nosso teste gratuito de diagnostico e receba um plano de estudo personalizado.",
+      "quemAssina": "Ryan Deiss (Funil / Oferta de entrada)"
+    },
+    {
+      "titulo": "O mercado tech nao espera",
+      "mensagem": "Enquanto voce pensa, outros estao sendo contratados. Capacitacao pratica com certificado reconhecido. Vagas reais esperando por voce.",
+      "quemAssina": "Pedro Sobral (Escala / Criativo como alavanca)"
+    },
+    {
+      "titulo": "Teste: voce e um profissional apto?",
+      "mensagem": "Responda 10 perguntas e descubra seu nivel de preparacao para as vagas mais concorridas de tecnologia. Resultado na hora + material exclusivo.",
+      "quemAssina": "Neil Patel (Conteudo que atrai / Trafego barato)"
+    }
+  ],
+  "criativo": "Video vertical (9:16) de 15 segundos com:\n- Primeiros 3s: rosto falando diretamente com texto 'Parece que voce nao esta apto?'\n- 3-8s: mostrando tela do site ou depoimento rapido de aluno\n- 8-15s: CTA 'Clique e descubra seu nivel'\nAlternativa: imagem estatica com grafico de 'salario medio tech' + headline provocativa. Motivo: video com rosto gera mais confianca e CTR no Meta Ads para educacao.",
+  "kpisDeOlho": ["CTR (min 1.5%)", "CPC (max R$1,50)", "CPL (custo por lead, max R$8,00)", "Taxa de conversao de lead para lead qualificado (min 15%)", "Frequencia (max 3)"],
+  "quandoEscalar": "Aumentar verba em 30% quando o conjunto de anuncios tiver mais de 50 conversoes na janela de 7 dias, CPA estiver dentro da meta e frequencia abaixo de 2. Escalar para R$50/dia e depois R$100/dia respeitando o aprendizado.",
+  "quandoCortar": "Pausar anuncio se: CTR abaixo de 0,8% com mais de 5.000 impressoes, CPA 2x acima da meta por 3 dias consecutivos, frequencia acima de 4 sem conversao, ou CPL acima de R$15 com mais de 50 clicks sem lead."
+}
